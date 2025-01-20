@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zekster131
 - 👀 I’m interested in expanding my knowledge on all things digital!
-- 🌱 I’m currently studying Digital Production, Design & Development T-Level
+- 🌱 I’m currently studying level 4 Software Development
 - 📫 How to reach me: zekgurler1@gmail.com
   
 <!---
